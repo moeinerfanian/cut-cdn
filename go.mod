@@ -1,4 +1,4 @@
-module github.com/moeinerfanian/cut-cdn
+module github.com/ImAyrix/cut-cdn
 
 go 1.19
 
